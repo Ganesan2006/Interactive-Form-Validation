@@ -18,7 +18,7 @@ This project is a simple interactive form with client-side validation using HTML
 1. **Clone or Download the Project**:
    - Clone the repository using Git:
 	 ```
-	 git clone https://github.com/Ganesan2006/Interactive-Form-Validation/tree/main
+	 git clone https://github.com/Ganesan2006/Interactive-Form-Validation
 	 ```
    - Or download the project as a ZIP file and extract it.
 
